@@ -5,9 +5,9 @@
   <subtitle>得不到的才是最美好的</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.csdn.net/github_39533414/"/>
-  <updated>2018-10-03T09:41:24.429Z</updated>
-  <id>https://blog.csdn.net/github_39533414/</id>
+  <link href="https://friend1314.github.io/"/>
+  <updated>2018-10-03T11:28:07.539Z</updated>
+  <id>https://friend1314.github.io/</id>
   
   <author>
     <name>xizuan</name>
@@ -17,9 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>HEXO SEO优化方法总结</title>
+    <link href="https://friend1314.github.io/seo%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93.html"/>
+    <id>https://friend1314.github.io/seo优化方法总结.html</id>
+    <published>2018-07-19T13:17:42.000Z</published>
+    <updated>2018-10-03T11:28:07.539Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一篇搭建个人博客SEO优化方法的总结</p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      总结一下使用Hexo搭建博客后，SEO优化方案的总结，后期会不定期更新。
+    
+    </summary>
+    
+      <category term="Debian" scheme="https://friend1314.github.io/categories/Debian/"/>
+    
+    
+      <category term="SEO" scheme="https://friend1314.github.io/tags/SEO/"/>
+    
+  </entry>
+  
+  <entry>
     <title>杀死一只知更鸟观后感</title>
-    <link href="https://blog.csdn.net/github_39533414/2018/03/01/hexoproject/"/>
-    <id>https://blog.csdn.net/github_39533414/2018/03/01/hexoproject/</id>
+    <link href="https://friend1314.github.io/hexoproject.html"/>
+    <id>https://friend1314.github.io/hexoproject.html</id>
     <published>2018-03-01T13:46:12.000Z</published>
     <updated>2018-10-03T09:41:24.429Z</updated>
     
@@ -36,15 +58,15 @@ tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜�
     
     </summary>
     
-      <category term="电影评论" scheme="https://blog.csdn.net/github_39533414/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
+      <category term="电影评论" scheme="https://friend1314.github.io/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
     
     
   </entry>
   
   <entry>
     <title>国庆经历</title>
-    <link href="https://blog.csdn.net/github_39533414/2018/03/01/%E9%9A%8F%E7%AC%94/"/>
-    <id>https://blog.csdn.net/github_39533414/2018/03/01/随笔/</id>
+    <link href="https://friend1314.github.io/%E9%9A%8F%E7%AC%94.html"/>
+    <id>https://friend1314.github.io/随笔.html</id>
     <published>2018-03-01T13:46:12.000Z</published>
     <updated>2018-10-03T09:56:06.107Z</updated>
     
@@ -66,15 +88,15 @@ tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜�
     
     </summary>
     
-      <category term="随笔" scheme="https://blog.csdn.net/github_39533414/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://friend1314.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
   
   <entry>
     <title>ubuntu一些基础设置</title>
-    <link href="https://blog.csdn.net/github_39533414/2017/11/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
-    <id>https://blog.csdn.net/github_39533414/2017/11/18/我的第一篇博客文章/</id>
+    <link href="https://friend1314.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0.html"/>
+    <id>https://friend1314.github.io/我的第一篇博客文章.html</id>
     <published>2017-11-18T10:30:24.000Z</published>
     <updated>2018-02-15T07:48:29.326Z</updated>
     
@@ -83,29 +105,26 @@ tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜�
     </summary>
     
     
-      <category term="在虚拟机下安装ubuntu系统遇到了一些问题" scheme="https://blog.csdn.net/github_39533414/tags/%E5%9C%A8%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%8B%E5%AE%89%E8%A3%85ubuntu%E7%B3%BB%E7%BB%9F%E9%81%87%E5%88%B0%E4%BA%86%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
+      <category term="在虚拟机下安装ubuntu系统遇到了一些问题" scheme="https://friend1314.github.io/tags/%E5%9C%A8%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%8B%E5%AE%89%E8%A3%85ubuntu%E7%B3%BB%E7%BB%9F%E9%81%87%E5%88%B0%E4%BA%86%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.csdn.net/github_39533414/2017/11/12/hello-world/"/>
-    <id>https://blog.csdn.net/github_39533414/2017/11/12/hello-world/</id>
+    <link href="https://friend1314.github.io/hello-world.html"/>
+    <id>https://friend1314.github.io/hello-world.html</id>
     <published>2017-11-11T16:00:00.000Z</published>
-    <updated>2018-10-03T08:31:08.089Z</updated>
+    <updated>2018-10-03T11:26:17.027Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
-      <category term="Hexo" scheme="https://blog.csdn.net/github_39533414/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://friend1314.github.io/categories/Hexo/"/>
     
     
   </entry>
