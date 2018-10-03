@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.csdn.net/github_39533414/"/>
-  <updated>2018-10-03T09:56:06.107Z</updated>
+  <updated>2018-10-03T09:41:24.429Z</updated>
   <id>https://blog.csdn.net/github_39533414/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>杀死一只知更鸟观后感</title>
+    <link href="https://blog.csdn.net/github_39533414/2018/03/01/hexoproject/"/>
+    <id>https://blog.csdn.net/github_39533414/2018/03/01/hexoproject/</id>
+    <published>2018-03-01T13:46:12.000Z</published>
+    <updated>2018-10-03T09:41:24.429Z</updated>
+    
+    <content type="html"><![CDATA[<p>title: Mac提高使用效率的一些方法   #文章的标题，这个才是显示的文章标题，其实文件名不影响</p><pre><code>date: 2015-09-01 20:33:26      #用命令会自动生成，也可以自己写，所以文章时间可以改categories: technology         #文章的分类，这个可以自己定义tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜索</code></pre><hr><p>主要是写一些计算机技术和一些人生经历。</p><a id="more"></a><p>本来博客是从2017就开始写的，但一直有一些杂七杂八的事情需要处理。就拖到了现在，手动狗头[doge]</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;title: Mac提高使用效率的一些方法   #文章的标题，这个才是显示的文章标题，其实文件名不影响&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;date: 2015-09-01 20:33:26      #用命令会自动生成，也可以自己写，所以文章时间可以改
+categories: technology         #文章的分类，这个可以自己定义
+tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜索
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;p&gt;主要是写一些计算机技术和一些人生经历。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="电影评论" scheme="https://blog.csdn.net/github_39533414/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>国庆经历</title>
@@ -42,31 +67,6 @@
     </summary>
     
       <category term="随笔" scheme="https://blog.csdn.net/github_39533414/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>杀死一只知更鸟观后感</title>
-    <link href="https://blog.csdn.net/github_39533414/2018/03/01/hexoproject/"/>
-    <id>https://blog.csdn.net/github_39533414/2018/03/01/hexoproject/</id>
-    <published>2018-03-01T13:46:12.000Z</published>
-    <updated>2018-10-03T09:41:24.429Z</updated>
-    
-    <content type="html"><![CDATA[<p>title: Mac提高使用效率的一些方法   #文章的标题，这个才是显示的文章标题，其实文件名不影响</p><pre><code>date: 2015-09-01 20:33:26      #用命令会自动生成，也可以自己写，所以文章时间可以改categories: technology         #文章的分类，这个可以自己定义tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜索</code></pre><hr><p>主要是写一些计算机技术和一些人生经历。</p><a id="more"></a><p>本来博客是从2017就开始写的，但一直有一些杂七杂八的事情需要处理。就拖到了现在，手动狗头[doge]</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;title: Mac提高使用效率的一些方法   #文章的标题，这个才是显示的文章标题，其实文件名不影响&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;date: 2015-09-01 20:33:26      #用命令会自动生成，也可以自己写，所以文章时间可以改
-categories: technology         #文章的分类，这个可以自己定义
-tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜索
-&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
-&lt;p&gt;主要是写一些计算机技术和一些人生经历。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="电影评论" scheme="https://blog.csdn.net/github_39533414/categories/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA/"/>
     
     
   </entry>
