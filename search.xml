@@ -26,23 +26,6 @@
     </entry>
     
     <entry>
-      <title>杀死一只知更鸟观后感</title>
-      <link href="/z_post/hexoproject.html"/>
-      <url>/z_post/hexoproject.html</url>
-      
-        <content type="html"><![CDATA[<p>title: Mac提高使用效率的一些方法   #文章的标题，这个才是显示的文章标题，其实文件名不影响</p><pre><code>date: 2015-09-01 20:33:26      #用命令会自动生成，也可以自己写，所以文章时间可以改categories: technology         #文章的分类，这个可以自己定义tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜索</code></pre><hr><p>主要是写一些计算机技术和一些人生经历。</p><a id="more"></a><p>本来博客是从2017就开始写的，但一直有一些杂七杂八的事情需要处理。就拖到了现在，手动狗头[doge]</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 电影评论 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    <entry>
       <title>国庆经历</title>
       <link href="/z_post/%E9%9A%8F%E7%AC%94.html"/>
       <url>/z_post/%E9%9A%8F%E7%AC%94.html</url>
@@ -53,6 +36,23 @@
       <categories>
           
           <category> 随笔 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>杀死一只知更鸟观后感</title>
+      <link href="/z_post/hexoproject.html"/>
+      <url>/z_post/hexoproject.html</url>
+      
+        <content type="html"><![CDATA[<p>title: Mac提高使用效率的一些方法   #文章的标题，这个才是显示的文章标题，其实文件名不影响</p><pre><code>date: 2015-09-01 20:33:26      #用命令会自动生成，也可以自己写，所以文章时间可以改categories: technology         #文章的分类，这个可以自己定义tags: [Mac,效率,快捷方式]        #tag，为文章添加标签，方便搜索</code></pre><hr><p>主要是写一些计算机技术和一些人生经历。</p><a id="more"></a><p>本来博客是从2017就开始写的，但一直有一些杂七杂八的事情需要处理。就拖到了现在，手动狗头[doge]</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 电影评论 </category>
           
       </categories>
       
