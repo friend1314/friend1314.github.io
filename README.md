@@ -1,5 +1,8 @@
 # friend1314.github.io
-blog
+利用Hexo搭建个人博客
+
+---
+Hexo安装
 
 https://www.zhilingth.club
 
